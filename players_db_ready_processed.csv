@@ -1,0 +1,428 @@
+id,additional_trackers,alias,discord_id,discord_name,is_franchise_manager,is_free_agent,is_general_manager,is_non_playing,is_retired,league,main_trackerurl,rating,salary,team,tracker_name
+190191977612042240,,,,SH_Zoro2,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/YT-xKuRupTx/mmr?playlist=11,,18.0,Chupacabra,YT-xKuRupTx
+190191977649790976,,,,Thunder,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198170852045/mmr?playlist=11,,18.0,Chupacabra,Thunder
+190191977649790977,,,,CxL,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/NotCxL%20./overview,,17.5,Chupacabra,NotCxL
+190191977649790978,,,,Wolfie,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198818226750/mmr?playlist=11,,17.5,Chupacabra,Wolfie
+190191977649790979,,,,Cryo,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198189494186/mmr?playlist=13,,17.0,Chupacabra,Cryo
+190191977649790980,,,,Hader,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561199020038309/mmr?playlist=11,,16.0,Chupacabra,Hader
+190191977649790981,,,,Just RUG o,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198307221890/mmr?playlist=11,,16.0,Chupacabra,Just RUG o
+190191977649790982,,,,mykopolis,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/mykopolis/mmr?playlist=13,,15.5,Chupacabra,myko
+190191977649790983,,,,Bruhdder,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198062406016/mmr?playlist=13,,15.5,Chupacabra,Bruhdder. ;)
+190191977649790984,,,,Mr. Clean,True,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/TheMrClean./mmr?playlist=13,,15.0,Chupacabra,TheMrClean.
+190191977649790985,,,,Kryptyik,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561199020809150/overview,,14.5,Chupacabra,Kryptyik
+190191977649790986,,,,TheSaucyBandit,False,False,True,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/TheSaucyBandit/mmr?playlist=13,,13.5,Chupacabra,TheSaucyBandit
+190191977649790987,,,,Boombob,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/boombob_/mmr?playlist=13,,13.5,Chupacabra,Boombob
+190191977649790988,,,,Robzzz,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198073799186/mmr?playlist=11,,13.5,Chupacabra,Robzzz
+190191977649790989,,,,JumpshotATL,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/jumpshot%20atl/mmr?playlist=11,,12.5,Chupacabra,Jumpshot ATL
+190191977649790990,,,,SpongeBob,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Spongebob85236/mmr?playlist=11,,12.0,Chupacabra,Spongebob85236
+190191977649790991,,,,Animethighinspector,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/AnimeThighs0626/mmr?playlist=11,,11.0,Chupacabra,AnimeThighs0626
+190191977649790992,,,,YenYen,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/YenYen36/mmr?playlist=13,,11.0,Chupacabra,YenYen36
+190191977649790993,,,,YoshiWanKenobi,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198103341447/mmr?playlist=11,,10.5,Chupacabra,YoshiWanKenoi
+190191977649790994,,,,Kicker_1,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/K1cker_1/mmr?playlist=13,,10.0,Chupacabra,K1cker_1
+190191977649790995,,,,Aryba,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Aryba./mmr?playlist=11  https://rocketleague.tracker.network/rocket-league/profile/epic/Budget_Evample/overview,,17.0,Eternal,Aryba.
+190191977649790996,,,,RaunchyRomanian,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/RaunchyRomanian/mmr?playlist=11,,16.5,Eternal,RaunchyRomanian
+190191977649790997,,,,ItalianGini,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/ItalianGini1/mmr?playlist=11,,16.0,Eternal,ItalianGini1
+190191977649790998,,,,Exile,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/SimoAspe/mmr?playlist=11,,15.0,Eternal,SimoAspe
+190191977649790999,,,,Marty112,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/shazam_379/mmr?playlist=11,,14.0,Eternal,shazam_379
+190191977649791000,,,,DZ,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/DZ-.-/overview,,13.5,Eternal,DZ
+190191977653985280,,,,xExileDxTyr,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/xExileDxTyr/mmr?playlist=13,,13.0,Eternal,xExileDxTyr
+190191977653985281,,,,ItzxdKilla-_-,False,False,True,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/ItzxdKilla-_-/overview,,12.5,Eternal,ItzxdKilla-_-
+190191977653985282,,,,Avid,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198311357127/mmr?playlist=11,,11.5,Eternal,Avid
+190191977653985283,,,,xOZZY3609x,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/xXOZZY3609Xx/mmr?playlist=13,,11.5,Eternal,xXOZZY3609Xx
+190191977653985284,,,,ImaJynn,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561199031100222/mmr?playlist=13,,11.0,Eternal,ImaJynn
+190191977653985285,,,,Semi_Stupid,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/TTV%20Semi_Stupid/overview,,11.0,Eternal,TTV Semi_Stupid
+190191977653985286,,,,Dohi,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Dohi%20whiffs/mmr?playlist=11,,11.0,Eternal,Dohi whiffs
+190191977653985287,,,,ItsFlowZa,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/ItsFlowZa/overview,,10.0,Eternal,ItsFlowZa
+190191977653985288,,,,Munchy,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198128277117/mmr?playlist=11,,17.0,Killer Clowns,Munchy
+190191977653985289,,,,Hollow,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561199092627298/mmr?playlist=11 https://rocketleague.tracker.network/rocket-league/profile/steam/76561198912684473/overview,,16.5,Killer Clowns,RIP GOOBA
+190191977653985290,,,,JimmyG,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198151517662/mmr?playlist=11,,16.0,Killer Clowns,†orro
+190191977653985291,,,,AngryTurtle,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/angryturtle./mmr?playlist=13,,15.5,Killer Clowns,AngryTurtle.
+190191977653985292,,,,Brodysseus,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561199049849273/mmr?playlist=13,,15.0,Killer Clowns,Brodysseus
+190191977653985293,,,,Doc,True,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198125801874/mmr?playlist=13,,14.0,Killer Clowns,Doc
+190191977653985294,,,,YTstorm,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Ytstormm/overview,,14.0,Killer Clowns,YTstorm
+190191977653985295,,,,Osh Die Er,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198408538011/mmr?playlist=11,,13.5,Killer Clowns,Osh.
+190191977653985296,,,,Ryleppo,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198165693963/mmr?playlist=11,,13.0,Killer Clowns,Beppo
+190191977653985297,,,,CheeseCake Owns,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/CheeseCakes%20Own/overview,,13.0,Killer Clowns,CheeseCakes
+190191977653985298,,,,Mio,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Mio_2224/mmr?playlist=11,,13.0,Killer Clowns,Mio
+190191977653985299,,,,The Big Payton,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198103339227/mmr?playlist=11,,12.0,Killer Clowns,The Big Payton
+190191977653985300,,,,Lil Reaper,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/styx%20%EF%BD%BC/mmr?playlist=11,,11.5,Killer Clowns,styx
+190191977658179584,,,,Xerm,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/xerm./mmr?playlist=11,,10.5,Killer Clowns,Xerm
+190191977658179585,,,,KitKat,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/SerenityKitKat/mmr?playlist=11,,10.0,Killer Clowns,SerenityKitKat
+190191977658179586,,,,Winter,False,False,True,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198846432528/mmr?playlist=13,,16.0,Martian,Winter
+190191977658179587,,,,Turbofuego,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Turbofuego/mmr?playlist=13,,15.0,Martian,Turbofuego
+190191977658179588,,,,art,True,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198221223772/mmr?playlist=11,,15.0,Martian,arteza
+190191977658179589,,,,Stawify,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/xbl/Stawify/mmr?playlist=11,,15.0,Martian,Stawify
+190191977658179590,,,,kaz ♪︎,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198856296157/mmr?playlist=13,,14.0,Martian,kazu san. ♪
+190191977658179591,,,,paystrip,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561199073881457/mmr?playlist=11,,13.0,Martian,B_oneDR
+190191977658179592,,,,plattypus,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/plattypus./mmr?playlist=11,,13.0,Martian,splattypus
+190191977658179593,,,,Sk1nnyLegend,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561199076231361/mmr?playlist=11,,13.0,Martian,Sk1nnyLegend
+190191977658179594,,,,Cam_DxD,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Cam_DxD/mmr?playlist=13,,11.5,Martian,Cam_DxD
+190191977658179595,,,,XerNaut,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/XerNaut/mmr?playlist=13,,11.0,Martian,XerNaut
+190191977658179596,,,,ImLeo,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561199078898995/mmr?playlist=11,,17.0,Minotaur,NotLeo
+190191977658179597,,,,Drakob,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198893434706/overview,,16.5,Minotaur,Drakob
+190191977658179598,,,,Mochi,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561199013322058/mmr?playlist=13,,15.5,Minotaur,Mochi
+190191977658179599,,,,SINDER,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198449492461/mmr?playlist=13,,15.0,Minotaur,SINDER
+190191977658179600,,,,gxxvm,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198273998959/mmr?playlist=11,,14.5,Minotaur,Gxxvm
+190191977658179601,,,,Kkube,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198027890950/mmr?playlist=13,,13.0,Minotaur,kkube
+190191977658179602,,,,Bearded Angler,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/KYG_DEMON-_-TAE/mmr?playlist=13,,13.0,Minotaur,KYG_DEMON-_-TAE
+190191977658179603,,,,StaTik,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/StaTik%20SecasiaN/mmr?playlist=11,,12.5,Minotaur,StaTik SecasiaN
+190191977658179604,,,,West,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Wisps_Wizzy/mmr?playlist=11,,12.5,Minotaur,Wisps_Wizzy
+190191977658179605,,,,WarRat,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198151942830/mmr?playlist=11,,12.0,Minotaur,WarRat
+190191977658179606,,,,Shafferboy,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/justin100004/mmr?playlist=11,,11.5,Minotaur,justin100004
+190191977658179607,,,,TitanPolus,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Titan%20Polus/mmr?playlist=13,,11.0,Minotaur,Titan Polus
+190191977658179608,,,,Dugger,False,False,True,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/DubiousDugger/mmr?playlist=11,,10.0,Minotaur,DubiousDugger
+190191977658179609,,,,CrucialUrchin98,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/xbl/CrucialUrchin98/mmr?playlist=11,,10.0,Minotaur,CrucialUrchin98
+190191977658179610,,,,Mercury ,True,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/vcwmercury/mmr?playlist=11,,9.0,Minotaur,vcwmercury
+190191977658179611,,,,Dark-Node,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Dark-Node/overview,,8.0,Minotaur,Dark-Node
+190191977658179612,,,,DarkLotus,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/DevineDream6542/mmr?playlist=13,,7.5,Minotaur,DevineDream
+190191977658179613,,,,HectoChip,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198015625546/mmr?playlist=13,,18.5,Mothmen,HectoChip
+190191977658179614,,,,fate,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198834785656/mmr?playlist=13,,18.5,Mothmen,Jamo
+190191977658179615,,,,Spooky,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198872609558/mmr?playlist=13,,18.0,Mothmen,Spooky
+190191977658179616,,,,owen,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198345395638/mmr?playlist=11,,17.5,Mothmen,shmowen
+190191977658179617,,,,Jay,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198964745360/mmr?playlist=13,,17.0,Mothmen,jay
+190191977658179618,,,,Jerms.,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198411666473/overview,,16.5,Mothmen,Jdogg
+190191977658179619,,,,Jarhead,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198356038988/overview ,,16.0,Mothmen,Jarhead
+190191977658179620,,,,Bowser,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/BOWSER_RL/mmr?playlist=11,,15.5,Mothmen,BOWSER_RL
+190191977658179621,,,,Branbino,False,False,True,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Branbino-/overview,,15.0,Mothmen,Branbino-
+190191977662373888,,,,AwfulMusic,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/AwfulMusic/mmr?playlist=13,,15.0,Mothmen,AwfulMusic
+190191977662373889,,,,SYNLESSX,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/SYNLESSX/mmr?playlist=13,,14.5,Mothmen,SYNLESSX
+190191977662373890,,,,Rover,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198134448558/mmr?playlist=13,,14.0,Mothmen,Rover
+190191977662373891,,,,hyperscale,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Hyperscale/mmr?playlist=11 https://rocketleague.tracker.network/rocket-league/profile/steam/76561198039186226/overview ,,13.5,Mothmen,Hyperscale
+190191977662373892,,,,LaBarey,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/LaBarey/mmr?playlist=13,,13.0,Mothmen,LaBarey
+190191977662373893,,,,Dragoneyes,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/DragonEyes9/mmr?playlist=13,,12.5,Mothmen,DragonEyes9
+190191977662373894,,,,ríkr.,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/ríkr./overview,,12.0,Mothmen,BabyLeth
+190191977662373895,,,,Freel,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Choujin%20XV/mmr?playlist=11,,11.5,Mothmen,Choujin XV
+190191977662373896,,,,FrickinPanda,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Frickin_Panda/mmr?playlist=13,,11.0,Mothmen,Frickin_Panda
+190191977662373897,,,,Knoqz,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Knoqz%20IV/mmr?playlist=13,,11.0,Mothmen,Knoqz IV
+190191977662373898,,,,DanDaMan,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Dandaman1234/overview,,9.0,Mothmen,Dandaman
+190191977662373899,,,,Mazda,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/xbl/MJ4490/mmr?playlist=11,,9.0,Mothmen,Mazda
+190191977662373900,,,,Bigdikb,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/MaCk_DaDdY_21/overview,,7.5,Mothmen,MaCk_DaDdY_21
+190191977662373901,,,,Glitch,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/xbl/TBS%20Bot7980/overview,,6.0,Mothmen,Glitch
+190191977662373902,,,,Purple,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/nL_Purple/mmr?playlist=11,,12.5,Mothmen,nL_Purple
+190191977662373903,,,,Afterburner,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/afterburner3375/mmr?playlist=13,,18.0,Non Playing,afterburner3375
+190191977662373904,,,,Kaydo,True,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198213437315/mmr?playlist=11,,17.5,Non Playing,MaybeJakey
+190191977662373905,,,,tdmakk,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198048976909/mmr?playlist=13,,17.5,Non Playing,MAKK! NoMic
+190191977662373906,,,,South,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198221545616/mmr?playlist=13,,17.5,Non Playing,<ö>
+190191977662373907,,,,Hank,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561199062985312/mmr?playlist=13,,17.0,Non Playing,Hank
+190191977662373908,,,,FlyFyre,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/FlyFyre./mmr?playlist=11,,16.5,Non Playing,FlyFyre
+190191977662373909,,,,GameBuster,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/RealGameBuster/mmr?playlist=11,,16.0,Non Playing,RealGameBuster
+190191977666568192,,,,XotiicWC,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/BulletTRL/mmr?playlist=13,,15.5,Non Playing,Bullet Bullet
+190191977666568193,,,,Buckle,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198158173664/mmr?playlist=11,,15.0,Non Playing,Buckle
+190191977666568194,,,,Reverse Fridge,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198084036498/overview,,14.5,Non Playing,Reverse Fridge
+190191977666568195,,,,Lol77,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/xbl/EKA%20Luminous/mmr?playlist=11,,14.0,Non Playing,EKA Luminous
+190191977666568196,,,,Mayhem,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198167495725/mmr?playlist=11,,14.0,Non Playing,Mayhem
+190191977666568197,,,,Devastation,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198334621694/mmr?playlist=11,,13.0,Non Playing,Final Boss Karen
+190191977666568198,,,,central_tv,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/CentralTTV/mmr?playlist=11,,13.0,Non Playing,CentralTTV
+190191977666568199,,,,Cranked,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198323990338/mmr?playlist=11,,13.0,Non Playing,Cranked
+190191977666568200,,,,GG Teddible,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198257618414/mmr?playlist=11,,11.5,Non Playing,GG Teddible
+190191977666568201,,,,TyTheGuy,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/SirGoodMan05/overview,,11.0,Non Playing,SirGoodMan05
+190191977666568202,,,,DJ45X,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198108021396/mmr?playlist=11,,11.0,Non Playing,DJ45X
+190191977666568203,,,,Pufi,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Pufi-_/mmr?playlist=13,,10.5,Non Playing,Pufi-_-
+190191977666568204,,,,.greyalien,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198843043846/overview,,10.5,Non Playing,Grey
+190191977666568205,,,,Nubz,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198034126527/overview,,10.0,Non Playing,Nubz
+190191977666568206,,,,crossfire,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198331536746/mmr?playlist=13 ,,16.5,Nymph,craws fire
+190191977666568207,,,,Hot Sauce,False,False,True,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198116048132/overview,,16.5,Nymph,Zracii<3
+190191977666568208,,,,SkylerNotSkylar,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198303389829/mmr?playlist=11 https://rocketleague.tracker.network/rocket-league/profile/epic/IceCobalt/overview,,16.0,Nymph,Skyler
+190191977666568209,,,,Daylon,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198237849978/mmr?playlist=13,,16.0,Nymph,Daylon
+190191977666568210,,,,itzmooserl,True,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/ωmoose./overview,,15.0,Nymph,wmoose.
+190191977666568211,,,,JKFrost,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/JKFrostyyyyy/mmr?playlist=11,,15.0,Nymph,JKFrostyyyyy
+190191977666568212,,,,chxppa,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/xbl/Chxppasing/mmr?playlist=11,,14.5,Nymph,chxppa
+190191977666568213,,,,Dave,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198127687309/mmr?playlist=13,,14.0,Nymph,Dave93
+190191977666568214,,,,iLLuZioN,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/345634563546345634563456/mmr?playlist=11,,13.5,Nymph,iLLuZioN
+190191977666568215,,,,Mr. R4NCH,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/xbl/Waifu%20Kewn/mmr?playlist=13 ,,13.0,Nymph,Waifu Kewn
+190191977666568216,,,,MSFT SWZYY,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/xbl/SWZYY%20GN/mmr?playlist=11,,12.5,Nymph,SWZYY GN
+190191977666568217,,,,K-9,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Itz%20Just%20K9/mmr?playlist=11,,11.0,Nymph,ItZ just K9
+190191977666568218,,,,BigCountry,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198018128432/mmr?playlist=11,,11.0,Nymph,BigCountry
+190191977666568219,,,,OGTHEASSASSIN,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198993846208/mmr?playlist=11,,11.0,Nymph,ogtheassassin
+190191977666568220,,,,goonkiloz,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/GoonKiloz/mmr?playlist=11,,10.0,Nymph,GoonKiloz
+190191977666568221,,,,RL Camaro,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/RL%20Camaro/overview,,10.0,Nymph,Camaro
+190191977666568222,,,,Zenzen0607,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Zenzen0607/mmr?playlist=11,,9.5,Nymph,Zenzen0607
+190191977666568223,,,,OEGliam7654b,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/xbl/oegliam7654b/mmr?playlist=13,,8.0,Nymph,OEGliam7654b
+190191977666568224,,,,Himothy,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/HisHimothy/mmr?playlist=13,,8.0,Nymph,HisHimothy
+190191977666568225,,,,the_seizz,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/THE%20SEIZZ/mmr?playlist=11,,8.0,Nymph,THE SEIZZ
+190191977666568226,,,,Garebear,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198239732128/mmr?playlist=11,,16.5,Peryton,Garebear
+190191977666568227,,,,Larxse,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198125749240/mmr?playlist=13,,16.5,Peryton,Larxse
+190191977666568228,,,,Mealey,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Mealey/mmr?playlist=11,,16.0,Peryton,Mealey
+190191977666568229,,,,Silvose,False,False,True,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198178636947/mmr?playlist=11,,15.5,Peryton,Silvose
+190191977666568230,,,,ColemanA,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/coilmoin/overview,,15.5,Peryton,coilman
+190191977666568231,,,,Buhg,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198245503756/mmr?playlist=11,,15.0,Peryton,Buhg
+190191977666568232,,,,Dasstri,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Dasstri/mmr?playlist=13,,15.0,Peryton,Dasstri
+190191977666568233,,,,rooguy,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Rooguy1617/overview,,14.5,Peryton,Rooguy1617
+190191977670762496,,,,Zero,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198892634244/mmr?playlist=13,,14.0,Peryton,Asuna
+190191977670762497,,,,3stans_cleaned_up,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/THREESTANS/mmr?playlist=13,,13.0,Peryton,THREESTANS
+190191977670762498,,,,Spydderr,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198059117435/mmr?playlist=11,,13.0,Peryton,Spyder
+190191977670762499,,,,Awesome Bill From Dawsonville,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198048506526/mmr?playlist=13,,12.0,Peryton,Awesome Bill From Dawsonville
+190191977670762500,,,,Arana,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Arana5418/overview,,11.0,Peryton,Arana5418
+190191977670762501,,,,yuki,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/%C3%9Dukihara/mmr?playlist=11,,10.0,Peryton,Yukihara
+190191977670762502,,,,Almond_Pie,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Almond_Pie%20on%20YT/mmr?playlist=13,,10.0,Peryton,Almond_Pie
+190191977670762503,,,,Exy,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198968676036/mmr?playlist=11,,19.0,Sasquatch,Exy
+190191977670762504,,,,Kaden,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198939053487/mmr?playlist=13,,17.5,Sasquatch,kaden.
+190191977670762505,,,,Chadley,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198985167078/mmr?playlist=13,,17.5,Sasquatch,Chadley
+190191977670762506,,,,Onyx,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Onyx%20zx6r/mmr?playlist=11,,17.0,Sasquatch,808_n4 on IG
+190191977670762507,,,,Skippy,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/richandflex/mmr?playlist=13,,16.5,Sasquatch,richandflex
+190191977670762508,,,,Red nova ultimate,True,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/RedNovaUltimate/mmr?playlist=13,,15.5,Sasquatch,RedNovaUltimate
+190191977670762509,,,,Empathy,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561199085983411/mmr?playlist=11,,15.5,Sasquatch,No Empathy
+190191977670762510,,,,Aon,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561199013249965/mmr?playlist=11,,15.0,Sasquatch,AON
+190191977670762511,,,,SkyGuy,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198845146894/mmr?playlist=11,,15.0,Sasquatch,SkyGuy
+190191977670762512,,,,Postmanxxvii,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561199053789641/mmr?playlist=13,,14.5,Sasquatch,Postmanxxvii
+190191977670762513,,,,Haze8489,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561199077437991/overview,,13.5,Sasquatch,Haze=)
+190191977670762514,,,,Tragic Upset,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561199057898168/mmr?playlist=11,,13.5,Sasquatch,Tragic Upset
+190191977670762515,,,,Blitz,False,False,True,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198021268578/mmr?playlist=11,,13.0,Sasquatch,Blitz
+190191977670762516,,,,Jtonasty,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/JTooNasty/mmr?playlist=11,,12.5,Sasquatch,JTooNasty
+190191977670762517,,,,OneMoreProphet,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198128571889/overview,,12.5,Sasquatch,OneMoreProphet
+190191977670762518,,,,Royalty ,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198982862143/mmr?playlist=13,,12.0,Sasquatch,Royalty
+190191977670762519,,,,Burky,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Burkyツ/mmr?playlist=13,,11.5,Sasquatch,Burkyツ
+190191977670762520,,,,Pr0phete,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198079357460/mmr?playlist=13,,11.0,Sasquatch,Pr0phete
+190191977670762521,,,,L_e_v_i.,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Lévii/overview,,10.5,Sasquatch,Lévii
+190191977670762522,,,,Sylo shotzz,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/SyLo_ShOtZz/mmr?playlist=11,,17.0,Space cadets,SyLo_ShOtZz
+190191977670762523,,,,Rose_Havoc,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198976384304/mmr?playlist=11,,16.5,Space cadets,Rose_Havoc97
+190191977670762524,,,,SyZuHRp,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/syzuhrp/mmr?playlist=11,,15.5,Space cadets,SyZuHRp
+190191977670762525,,,,Mai,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198439088910/mmr?playlist=11,,15.0,Space cadets,Mai
+190191977670762526,,,,Bditty88,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198360998721/mmr?playlist=11,,13.5,Space cadets,Bditty88
+190191977670762527,,,,frankthebarber90,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Frankthebarber91/overview,,13.0,Space cadets,Frankthebarber91
+190191977670762528,,,,Xeia,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198026736312/mmr?playlist=13,,13.0,Space cadets,Xeia
+190191977670762529,,,,Quick_Koala,False,False,True,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198839066992/overview,,11.5,Space cadets,Quick_Koala
+190191977670762530,,,,JoshhhWah,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198824584799/mmr?playlist=13,,11.0,Space cadets,JoshhhWah
+190191977670762531,,,,prestondew00,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/prestondew00/mmr?playlist=11,,11.0,Space cadets,prestondew00
+190191977670762532,,,,Griimthereaper,True,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/GriimthereapeR/overview,,10.0,Space cadets,GriimthereapeR
+190191977670762533,,,,Sttowe,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/Sttowe/mmr?playlist=11,,10.0,Space cadets,Sttowe
+190191977670762534,,,,Lewacky,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198876375689/mmr?playlist=11,,9.5,Space cadets,Lewacky
+190191977670762535,,,,mattisok,False,False,False,False,False,,?,,8.5,Space cadets,Mattisok
+190191977670762536,,,,Krioni11,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Krioni11/mmr?playlist=11,,8.0,Space cadets,Krioni11
+190191977670762537,,,,Jubilee.,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/Jubliee_choco/mmr?playlist=11,,6.0,Space cadets,Jubliee_choco
+190191977670762538,,,,Liptenjag,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Liptenjag1/overview,,15.5,Visitors,Liptenjag1
+190191977670762539,,,,Josh,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/RancidBug726/mmr?playlist=13,,15.0,Visitors,RancidBug726
+190191977670762540,,,,Dad,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/Flint5tone/mmr?playlist=13,,15.0,Visitors,Flint5tone
+190191977670762541,,,,Yz,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198149874360/mmr?playlist=11,,15.0,Visitors,Yz
+190191977670762542,,,,AriseGG,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/Islay-gg/mmr?playlist=11,,14.5,Visitors,ISlay-GG
+190191977670762543,,,,Flyxr,False,False,True,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Flyxrs.TTV/mmr?playlist=13,,14.0,Visitors,Flyxr
+190191977670762544,,,,RedemptionKing,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/RedemptionKing1/mmr?playlist=11,,13.5,Visitors,Redemptionking1
+190191977670762545,,,,jmac4192,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Divinebull1/overview,,12.5,Visitors,DivineBull1
+190191977674956800,,,,el_sisko,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/el_sisko/mmr?playlist=13,,12.0,Visitors,el_sisko
+190191977674956801,,,,ollie0416,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/tiktok%20aiollie./mmr?playlist=13 ,,11.5,Visitors,tiktok aiollie.
+190191977674956802,,,,cory_tg79,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/xbl/corythegod79/mmr?playlist=11,,11.0,Visitors,corythegod79
+190191977674956803,,,,taint tickler,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Ego%20Barry/mmr?playlist=11,,10.0,Visitors,Ego Barry
+190191977674956804,,,,Alert,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198861308149/overview,,19.0,Wendigo,Massimo
+190191977674956805,,,,zero,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Zero.rl/mmr?playlist=13,,18.5,Wendigo,Zero.rl
+190191977674956806,,,,Slvr.,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198847006508/mmr?playlist=13,,17.0,Wendigo,Slvr.
+190191977674956807,,,,Kills,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/xbl/Sacredpeaks/overview,,16.5,Wendigo,Sacredpeaks
+190191977674956808,,,,Mightie,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/mightie31/mmr?playlist=11,,16.0,Wendigo,Mightie
+190191977674956809,,,,TWO PIECE SAM,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198023350836/mmr?playlist=11,,15.5,Wendigo,ImSoApplee
+190191977674956810,,,,Oddety_,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Oddety_/overview,,15.0,Wendigo,Oddety_
+190191977674956811,,,,cordiaL,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198243092472/mmr?playlist=11,,15.0,Wendigo,cordiaL
+190191977674956812,,,,RuebenSandwich,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198027275895/mmr?playlist=13,,14.0,Wendigo,RuebenSandwich
+190191977674956813,,,,FactionsofWar,False,False,True,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Factions_of_War/mmr?playlist=11,,13.5,Wendigo,Factions_of_War
+190191977674956814,,,,Bee,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198356798325/mmr?playlist=11,,13.5,Wendigo,Bee
+190191977674956815,,,,Fenrir,True,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198419272772/overview. https://rocketleague.tracker.network/rocket-league/profile/epic/W01F%20of%20Valhalla/overview ,,12.5,Wendigo,Fenrir
+190191977674956816,,,,Chef,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/therealchef86/mmr?playlist=13,,12.0,Wendigo,TheRealChef86
+190191977674956817,,,,Big_marv,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/big_marv409/mmr?playlist=11,,11.5,Wendigo,Big_marv
+190191977674956818,,,,Fluffy_Geezer,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Flufffy_Geezer/mmr?playlist=11,,11.0,Wendigo,Flufffy_Geezer
+190191977674956819,,,,CodyKansas,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Codykansas/mmr?playlist=11,,11.0,Wendigo,CodyKansas
+190191977674956820,,,,ahmedsa,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Thritis/mmr?playlist=11,,17.5,,Thritis
+190191977674956821,,,,slayn7081,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/highii2k/mmr?playlist=13,,17.5,,highii2k
+190191977674956822,,,,roxy,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198869783814/mmr?playlist=11,,17.5,,roxy
+190191977674956823,,,,Jolt,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198905595676/mmr?playlist=13,,17.0,,Jolt
+190191977674956824,,,,intuitives,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/intuitivess/mmr?playlist=11,,16.0,,intuitivess
+190191977674956825,,,,dewbert.,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198414471456/mmr?playlist=13,,15.0,,Dewby
+190191977674956826,,,,Pewdabear,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/iiPewDaBearii/mmr,,13.5,,iiPewDaBearii
+190191977674956827,,,,LogiCC,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/CallMeLogiCC/mmr?playlist=11,,13.0,,CallMeLogiCC
+190191977674956828,,,,Yoyo,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198342888277/mmr?playlist=11,,12.5,,SlavicYoyo
+190191977674956829,,,,FayRose.,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/FayRose.217/mmr?playlist=13,,9.0,,FayRose.217
+190191977674956830,,,,Lobby Boyy,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/LobbyBoyyy/mmr?playlist=11,,9.0,,LobbyBoyyy
+190191977674956831,,,,Xynzi_Edits,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/xbl/Xynzi%20Edits/mmr?playlist=11,,8.5,,Xynzi Edits
+190191977674956832,,,,KoalaB,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/KoalaB420/overview,,8.5,,KoalaB420
+190191977674956833,,,,brainless chaser,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198272396493/overview,,19.0,Free Agent,solo plays enjoyer
+190191977674956834,,,,instynct,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/OrangeMacaw8203/mmr?playlist=11,,19.5,Free Agent,OrangeMacaw8203
+190191977674956835,,,,itzconnr,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198025663861/mmr?playlist=13,,19.5,Free Agent,Itz Connr
+190191977674956836,,,,ASHES,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198174404581/mmr?playlist=13,,19.0,Free Agent,ashes
+190191977674956837,,,,Fetuggzy,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/1.e4%20enjoyer/mmr?playlist=11,,19.0,Free Agent,1.00E+04
+190191977674956838,,,,kov.o,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/kovorl/mmr?playlist=13,,18.5,Free Agent,KovoRL
+190191977674956839,,,,BajaBlast,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198257125730/mmr?playlist=13,,18.5,Free Agent,comfy
+190191977674956840,,,,benusher,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Bennnnn_/mmr?playlist=11,,18.5,Free Agent,Bennnnn_
+190191977674956841,,,,Enable,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/xbl/Baby%20Sharp/mmr?playlist=11,,18.0,Free Agent,Baby Sharp
+190191977674956842,,,,Shark,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/Lackedshark9/mmr?playlist=11,,18.0,Free Agent,Shark
+190191977674956843,,,,plier.,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/plywood./mmr?playlist=11,,18.0,Free Agent,plywood.
+190191977674956844,,,,Millsyy,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198312812979/mmr?playlist=11,,18.0,Free Agent,Millsy
+190191977674956845,,,,xiris ,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198319670472/mmr?playlist=11 ,,17.5,Free Agent,april
+190191977679151104,,,,TopKat,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198795545457/mmr?playlist=13,,17.5,Free Agent,TK
+190191977679151105,,,,ThunderTung,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/thundertung/mmr?playlist=11,,17.5,Free Agent,ThunderTung
+190191977679151106,,,,Torro,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198272331430/overview,,17.0,Free Agent,Torro
+190191977679151107,,,,Mo-nx ,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/MO-NX/mmr?playlist=11,,17.0,Free Agent,MO-NX
+190191977679151108,,,,ximidy,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561199047793899/overview,,17.0,Free Agent,Xim
+190191977679151109,,,,eggg_man,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198370609564/mmr?playlist=11,,17.0,Free Agent,Egg_Man
+190191977679151110,,,,Fanatic,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Fanatic_37/mmr?playlist=13,,16.5,Free Agent,Fanatic_37
+190191977679151111,,,,FLOW,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/flowchart/mmr?playlist=11,,16.5,Free Agent,kdc
+190191977679151112,,,,Uncle Rico,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198969602635/mmr?playlist=11,,16.5,Free Agent,Uncle Rico
+190191977679151113,,,,Fly_.87,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/FLY_.87/overview,,16.5,Free Agent,Fly_.87
+190191977679151114,,,,Merely.,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198425485424/mmr?playlist=13,,16.0,Free Agent,merely
+190191977679151115,,,,justward ,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Ward_rl/overview,,16.0,Free Agent,Ward_rl
+190191977679151116,,,,Biscuitboi,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Biscuitboi./mmr?playlist=11,,16.0,Free Agent,Biscuitboi
+190191977679151117,,,,Roe,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Roe_UK/mmr?playlist=13,,16.0,Free Agent,Roe_UK
+190191977679151118,,,,Co.,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198922577400/overview,,16.0,Free Agent,Co._.
+190191977679151119,,,,Coley!,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198115090816/mmr?playlist=11,,16.0,Free Agent,Coley!
+190191977679151120,,,,Lil Grimace,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/LiL%20Grimace/mmr?playlist=13,,15.5,Free Agent,Lil Grimace
+190191977679151121,,,,Hutch,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/chunth127/mmr?playlist=11,,15.5,Free Agent,Chunth 127
+190191977679151122,,,,IrishElmer-,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/IrishElmer-/mmr?playlist=11,,15.5,Free Agent,IrishElmer-
+190191977679151123,,,,Itstriky,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/ItzTriky_/mmr?playlist=11,,15.5,Free Agent,Itz Triky_
+190191977679151124,,,,HiChew,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/HiChew.RL/mmr?playlist=13,,15.5,Free Agent,HiChew_rl
+190191977679151125,,,,itsyaboiyogotti,False,False,False,False,False,,,,15.5,Free Agent,itsyaboiyogotti
+190191977679151126,,,,aysoni (soon),False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/hydrofluoric%20aci/mmr?playlist=11,,15.5,Free Agent,aysoni
+190191977679151127,,,,ZackV,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198843692904/mmr?playlist=13,,15.0,Free Agent,ZackV
+190191977679151128,,,,Smith,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Smithあ/overview,,15.0,Free Agent,Smithあ
+190191977679151129,,,,Forht,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198836888761/mmr?playlist=13,,15.0,Free Agent,FatFurriesHMU
+190191977679151130,,,,Kazuto,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Kazuto270v/mmr?playlist=13,,15.0,Free Agent,Kazuto270v
+190191977679151131,,,,Gabb,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Gabb%20sweats/mmr?playlist=11,,15.0,Free Agent,Gabb sweats
+190191977679151132,,,,Wiggle,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198907697782/overview,,15.0,Free Agent,Wiggle
+190191977679151133,,,,Dub_Dill,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Dub_Dill/mmr?playlist=13,,15.0,Free Agent,Dub_Dill
+190191977679151134,,,,Goose ,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/img00se./mmr?playlist=13,,15.0,Free Agent,img00se
+190191977679151135,,,,SirCitrix,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198087885116/mmr?playlist=11,,15.0,Free Agent,Citrix
+190191977679151136,,,,Sylver,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Sylver%200_0/overview,,15.0,Free Agent,Sylver 0_0
+190191977679151137,,,,Quhp ,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198071176268/mmr?playlist=13,,15.0,Free Agent,Quhp
+190191977679151138,,,,Bondo_Rl,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198396076514/mmr?playlist=13,,15.0,Free Agent,Bondo ):
+190191977679151139,,,,Dirt,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561199027661713/mmr?playlist=11,,15.0,Free Agent,Dirt
+190191977679151140,,,,Hash,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/KamdenRL/overview,,15.0,Free Agent,Evap Hash
+190191977679151141,,,,Billybob,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/bob%20is%20a%20miner/mmr?playlist=11,,15.0,Free Agent,bob is miner
+190191977679151142,,,,Ghosty,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561199085163970/mmr?playlist=11,,15.0,Free Agent,Ghosty
+190191977683345408,,,,xZ Golden Zx,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/xZ%20Golden%20Zx/mmr?playlist=11,,15.0,Free Agent,xZ Golden Zx
+190191977683345409,,,,feel,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Mr-Feel/mmr?playlist=11,,15.0,Free Agent,Mr-Feel
+190191977683345410,,,,Wooz_e,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Wooz_E_/mmr?playlist=13,,15.0,Free Agent,Wooz_E
+190191977683345411,,,,Dyll,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198868419174/mmr?playlist=11,,15.0,Free Agent,Dyll
+190191977683345412,,,,Akeldama,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Akeldama%20RL/mmr?playlist=13,,15.0,Free Agent,Akeldama RL
+190191977683345413,,,,jay_glowz,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/xbl/scarxcity/mmr?playlist=13,,14.5,Free Agent,scarxcity
+190191977683345414,,,,Skye_AverageJoe,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Skye_Averagejoe/mmr?playlist=11,,14.5,Free Agent,Skye_Averagejoe
+190191977683345415,,,,TheDarkHero,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/TheDarkHero77/mmr?playlist=13,,14.5,Free Agent,TheDarkHero77
+190191977683345416,,,,OneNaughtyCamel,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/xbl/OneNaughtyCamel/overview,,14.5,Free Agent,OneNaughtyCamel
+190191977683345417,,,,xMJRCx,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/xMJRCx/overview,,14.5,Free Agent,xMJRCx
+190191977683345418,,,,zekewho,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561199063178314/mmr?playlist=11,,14.5,Free Agent,HELP.
+190191977683345419,,,,LethalBubba,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/LethalBubba1/mmr?playlist=11,,14.5,Free Agent,LethalBubba1
+190191977683345420,,,,Voidz2648 ,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/VoidzV2%EF%BE%82/mmr?playlist=11,,14.5,Free Agent,VoidzV2ﾂ
+190191977683345421,,,,Sheep,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198101937878/mmr?playlist=11,,14.5,Free Agent,Sheep
+190191977683345422,,,,Reflect,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198292986825/mmr?playlist=11,,14.5,Free Agent,Reflect315
+190191977683345423,,,,Xythanus,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Dizplayy./mmr?playlist=11,,14.5,Free Agent,Dizplayy.
+190191977683345424,,,,Fears,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198037182406/mmr?playlist=11,,14.0,Free Agent,Fears
+190191977683345425,,,,iRJ-__-,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561199070787149/overview,,14.0,Free Agent,iRJ
+190191977683345426,,,,Aliassbane,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198209055568/mmr?playlist=11,,14.0,Free Agent,Valsbane
+190191977683345427,,,,BlueMars2,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198129111109/mmr?playlist=13,,14.0,Free Agent,BlueMars2
+190191977683345428,,,,Kurrazo,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561199134799983/mmr?playlist=11,,14.0,Free Agent,Kurrazo
+190191977683345429,,,,Ragebox,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561199029732485/mmr?playlist=11,,14.0,Free Agent,Ragebox05
+190191977683345430,,,, IamSmittens,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/IamSmittens/overview,,14.0,Free Agent,IamSmittens
+190191977683345431,,,,Kyozo.exe,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198304406962/mmr?playlist=11,,14.0,Free Agent,TurKyozo
+190191977683345432,,,,seanmicha,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/yawning%20tbh/mmr?playlist=13,,14.0,Free Agent,yawning
+190191977683345433,,,,Termz,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198280627643/mmr?playlist=13,,14.0,Free Agent,Termz
+190191977683345434,,,,skewhip,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/skewhip/mmr?playlist=13,,14.0,Free Agent,Griffin
+190191977683345435,,,,BroskiJazz,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198047897253/mmr?playlist=13,,14.0,Free Agent,BroskiJAZZ
+190191977683345436,,,,Hrls.,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198325751956/mmr?playlist=11,,14.0,Free Agent,.Hrls
+190191977683345437,,,,QubeKnight,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198089851112/overview,,14.0,Free Agent,QubeKnight
+190191977683345438,,,,RuthlessSixV2,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/xbl/RuthlessSixV2/mmr?playlist=13,,14.0,Free Agent,RuthlessSixV2
+190191977683345439,,,,Jumping_armadilo,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/jumping_armadilo/mmr?playlist=11,,14.0,Free Agent,jumping_armadilo
+190191977683345440,,,,Perky,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198401386309/mmr?playlist=11,,14.0,Free Agent,Perky
+190191977683345441,,,,olichoo,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/olichoo./mmr?playlist=11,,14.0,Free Agent,olichoo
+190191977683345442,,,,SirBroskiSwaggy,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/SirBroskiSwaggy/mmr?playlist=13,,13.5,Free Agent,SirBroskiSwaggy
+190191977683345443,,,,Jmh187,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Jmh187-/overview,,13.5,Free Agent,itsoneeightseven
+190191977683345444,,,,Azstrelix,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/Azstrelix/mmr?playlist=13,,13.5,Free Agent,Azstrelix
+190191977683345445,,,,Brad,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/BradMcSnackWrap/mmr?playlist=11,,13.5,Free Agent,BradMcSnackWrap
+190191977683345446,,,,HCG,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Hardcoregames15/mmr?playlist=13,,13.5,Free Agent,Hardcorgames15
+190191977683345447,,,,Matt12130,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/Matt12130/mmr?playlist=13,,13.5,Free Agent,Matt12130
+190191977683345448,,,,qwntn.,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198396186811/mmr?playlist=11,,13.5,Free Agent,qwntn.
+190191977683345449,,,,Dirty,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Dirtyrl/mmr?playlist=11,,13.5,Free Agent,Dirtyrl
+190191977683345450,,,,Pander,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/HarshWombat38/mmr?playlist=11,,13.5,Free Agent,Pander
+190191977683345451,,,,hedon,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/lil_savaga4400/mmr?playlist=13,,13.5,Free Agent,lil_savaga4400
+190191977683345452,,,,Senyu,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198258630283/mmr?playlist=11,,13.5,Free Agent,Senyu
+190191977683345453,,,,JDZ,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198972359803/mmr?playlist=13,,13.5,Free Agent,JDZ
+190191977683345454,,,,VBrolo,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/vBrolo./mmr?playlist=13 ,,13.0,Free Agent,VBrolo.
+190191977683345455,,,,CoDean,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/CoDean02/mmr?playlist=11,,13.0,Free Agent,CoDean02
+190191977683345456,,,,a_bearded_dad,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/beardedwattitude/mmr?playlist=13,,13.0,Free Agent,BeardedwAttitude
+190191977683345457,,,,maplesyrup.__.,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/MapleSyrup爱/overview
+190191977683345458,,,13.0,Free Agent,MapleSyrup爱
+190191977683345459,,,,FaXual,False,False,False,False,False,,?,,13.0,Free Agent,FaXual
+190191977683345460,,,,3xoticmoon,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/HagaWaha/mmr?playlist=11,,13.0,Free Agent,HagaWaha
+190191977683345461,,,,MLU Legend,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/xbl/RSO%20Legend6164/mmr?playlist=13,,13.0,Free Agent,RSO Legend6164
+190191977683345462,,,,mprunninbig11,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Mprunninbig11/mmr?playlist=11,,13.0,Free Agent,Mprunninbig11
+190191977683345463,,,,FatandtheFury,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/TheFatandFury02/overview,,13.0,Free Agent,TheFatandFury02
+190191977683345464,,,,Grim,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/atabani./mmr?playlist=11,,13.0,Free Agent,ATABANI.
+190191977683345465,,,,Thepandaman,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/ThaPandaMan/mmr?playlist=11,,13.0,Free Agent,ThePandaMan
+190191977683345466,,,,valsbane,False,False,False,False,False,,?,,13.0,Free Agent,valsbane
+190191977683345467,,,,sobered.,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/aydnn03/mmr?playlist=13,,13.0,Free Agent,Aydnn03
+190191977683345468,,,,MrFestiveTTV,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Phoenix.TG/mmr?playlist=13,,13.0,Free Agent,Phoenix.TG
+190191977687539712,,,,Maelstrom,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/Maelstrom_12/mmr?playlist=11,,13.0,Free Agent,Maelstrom_12
+190191977687539713,,,,acxes--,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/acxes--/overview,,13.0,Free Agent,acxes--
+190191977687539714,,,,Liya,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/xbl/Nordic2quick/overview https://rocketleague.tracker.network/rocket-league/profile/xbl/Moobaliciouss/mmr?playlist=11,,13.0,Free Agent,Moobaliciouss Nordic2quick
+190191977687539715,,,,STADDIX,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/xbl/STADDIX/mmr?playlist=11,,13.0,Free Agent,STADDIX
+190191977687539716,,,,Bridey,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198120666793/mmr?playlist=11,,13.0,Free Agent,Bridey
+190191977687539717,,,,A.C.E.E,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/A.C.E.E/mmr?playlist=13,,13.0,Free Agent,A.C.E.E
+190191977687539718,,,,jschafer,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Squiggles772/overview,,13.0,Free Agent,Squiggles772
+190191977687539719,,,,Shocker,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198132443959/mmr?playlist=11,,13.0,Free Agent,Shocker
+190191977687539720,,,,Shag,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198104319396/mmr?playlist=11,,13.0,Free Agent,Shag
+190191977687539721,,,,TINY,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198921280159/mmr?playlist=13,,12.5,Free Agent,TINY
+190191977687539722,,,,Monty,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/MontyChip_/mmr?playlist=13,,12.5,Free Agent,MontyChip
+190191977687539723,,,,Baltostorm1,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Baltostorm1/overview,,12.5,Free Agent,Baltostorm1
+190191977687539724,,,,Peepaw,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198870221096/mmr?playlist=11,,12.5,Free Agent,PEEPZu
+190191977687539725,,,,xZendu.,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/xZendu./mmr?playlist=13,,12.5,Free Agent,xZendu.
+190191977687539726,,,,Yamborghini55,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/Yamborghinii55/mmr?playlist=13,,12.5,Free Agent,Yamborghinii55
+190191977687539727,,,,mghtym0use380,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/mghtym0use380/mmr?playlist=11,,12.5,Free Agent,mghtym0use380
+190191977687539728,,,,Peepaw,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198870221096/mmr?playlist=11,,12.5,Free Agent,PEEPZu
+190191977687539729,,,,AkTION,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561199024923434/mmr?playlist=11,,12.5,Free Agent,AkTION
+190191977687539730,,,,poison906light,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/death5826/mmr?playlist=11,,12.5,Free Agent,death5826
+190191977687539731,,,,jerrbear37,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/jerrbear%20RL/mmr?playlist=13,,12.5,Free Agent,jerrbear37
+190191977687539732,,,,Hazy,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Hazy_Powers98/mmr?playlist=11,,12.5,Free Agent,Hazy_Powers98
+190191977687539733,,,,Xavier_Wolf,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/XavierStarwolf/mmr?playlist=11,,12.5,Free Agent,XavierStarwolf
+190191977687539734,,,,MrMayhem_NC,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/MrMayhem_Nc/mmr?playlist=11,,12.5,Free Agent,MrMayhem_Nc
+190191977687539735,,,,Hemdawg93,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/Hemdawg93/mmr?playlist=11,,12.5,Free Agent,Hemdawg93
+190191977687539736,,,,VoidKill-,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/VoidKill-/mmr?playlist=11,,12.5,Free Agent,VoidKill-
+190191977687539737,,,,SteelCityRL,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/Huggins-_-/mmr?playlist=11,,12.5,Free Agent,Huggins-_-
+190191977687539738,,,,Roz,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/RozLikesPotatoes/mmr?playlist=13,,12.5,Free Agent,RozLikesPotatoes
+190191977691734016,,,,Thunderca,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198167478345/mmr?playlist=11,,12.5,Free Agent,Thunderca
+190191977691734017,,,,Kaiyo,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198371178434/overview,,12.0,Free Agent,The Postman
+190191977691734018,,,,BoogerBear,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/BoogerBear5067/mmr?playlist=11,,12.0,Free Agent,BoogerBear5067
+190191977691734019,,,,Jellydragon,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/jelllydragon/mmr?playlist=11,,12.0,Free Agent,jellydrangon
+190191977691734020,,,,YeaKaiu,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Kaiu%E3%83%83/overview,,12.0,Free Agent,Alan
+190191977691734021,,,,GGxkr1ppy/izakg,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/GGxkr1ppy/mmr?playlist=11,,12.0,Free Agent,GGxkr1ppy
+190191977691734022,,,,SRSExKAOS,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/SRSExKAOS/mmr?playlist=11,,12.0,Free Agent,SRSExKAOS
+190191977691734023,,,,123ethan39,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/captain_soccer24/mmr?playlist=13,,12.0,Free Agent,captain_soccer24
+190191977691734024,,,,Jay The Juiceman,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Jay%20Da%20Juiceman/mmr?playlist=13,,12.0,Free Agent,Jay Da Juiceman
+190191977691734025,,,,ayijuse,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Ayijuse/overview,,12.0,Free Agent,Ayijuse
+190191977691734026,,,,HeckaHansen,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/xbl/heckahansen/mmr?playlist=13,,12.0,Free Agent,HeckaHansen
+190191977691734027,,,,HK_BadBoy,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198100776203/mmr?playlist=13,,12.0,Free Agent,KCC | HK_BadBoy
+190191977691734028,,,,smurfyy.,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/itzsmurfyy/mmr?playlist=11,,12.0,Free Agent,itzsmurfyy
+190191977691734029,,,,Psych,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/xPsych99x/mmr?playlist=13,,12.0,Free Agent,Psych
+190191977691734030,,,,Obsidian_Bear,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198327338361/mmr?playlist=13,,12.0,Free Agent,Obsidian_Bear
+190191977691734031,,,,ibelittleman,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/ibelittlemann/mmr?playlist=11,,11.5,Free Agent,ibelittleman
+190191977691734032,,,,Squab,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198838835319/overview,,11.5,Free Agent,Squab
+190191977691734033,,,,J_Beast_200,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/J_Beast_200/mmr?playlist=11,,11.5,Free Agent,J_Beast_200
+190191977691734034,,,,brd,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/brdtrd999/mmr?playlist=11,,11.5,Free Agent,brdtrd999
+190191977691734035,,,,juanertizer,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198052576618/mmr?playlist=11,,11.5,Free Agent,juanertizer
+190191977691734036,,,,TTV_Lnazty,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/TTV_Lnazty/mmr?playlist=11,,11.5,Free Agent,TTV_Lnazty
+190191977691734037,,,,Angel,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/Angelofthebronx/mmr?playlist=13,,11.0,Free Agent,Angelofthebronx
+190191977691734038,,,,pilot,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/MajorPilots/mmr?playlist=11,,11.0,Free Agent,MajorPilot
+190191977691734039,,,,thejoker21,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/Sgt_Ninja23/mmr?playlist=13,,11.0,Free Agent,Sgt_Ninja
+190191977691734040,,,,NWXL,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/NorseWolfXL/mmr?playlist=11,,11.0,Free Agent,NorseWolfXL
+190191977691734041,,,,JimGameGuru,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/jim%20game%20guru/mmr?playlist=11,,11.0,Free Agent,Jim Game Guru
+190191977691734042,,,,ItsYoBoiChad,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198264607752/mmr?playlist=11,,11.0,Free Agent,ItsYoBoiChad
+190191977691734043,,,,Leo,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Llieoo/mmr?playlist=11,,11.0,Free Agent,Leo361822
+190191977691734044,,,,MR_DUBAR,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198268754406/mmr?playlist=11,,11.0,Free Agent,UCANTBEAT1
+190191977691734045,,,,F3AR,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/STGF3AR/mmr?playlist=13,,11.0,Free Agent,STGF3AR
+190191977691734046,,,,upyours,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/pewpew_86/mmr?playlist=13,,11.0,Free Agent,pewpew_86
+190191977691734047,,,,Jame,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198283023498/mmr?playlist=11,,10.5,Free Agent,Brisk
+190191977691734048,,,,GG Pretzel,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/pretzel%20._./mmr?playlist=13,,10.5,Free Agent,Pretzel._.
+190191977691734049,,,,Mortal_Gaming,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198084484062/mmr?playlist=11,,10.5,Free Agent,Mortal
+190191977691734050,,,,Jdmfolyfe00,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/CleanDragon845/mmr?playlist=11,,10.5,Free Agent,CleanDragon845
+190191977691734051,,,,montreyhydro,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/monteryhydra/overview,,10.5,Free Agent,monteryhydra
+190191977691734052,,,,KrimsonWrath,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/KrimsonWrath/mmr?playlist=11,,10.5,Free Agent,KrimsonWrath
+190191977691734053,,,,Penney,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/xbl/I%20Pennxy%20I/mmr?playlist=13,,10.5,Free Agent,Penney
+190191977691734054,,,,Connor,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/meathead-lcfc435/mmr?playlist=11,,10.5,Free Agent,meathead-lcfc435
+190191977691734055,,,,maccthesnacc,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/maccthesnacc1/mmr?playlist=13,,10.5,Free Agent,maccthesnacc1
+190191977691734056,,,,beardedjackyl27,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/xbl/BEARDEDJACKYL/mmr?playlist=11,,10.0,Free Agent,beardedjackyl27
+190191977691734057,,,,ON3xN3T,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/ON3xN3T/mmr?playlist=13,,10.0,Free Agent,ON3xN3T
+190191977691734058,,,,Yo-Mikey,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Viper-Mike/mmr?playlist=13,,10.0,Free Agent,Viper-Mike
+190191977691734059,,,,Runix _League,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/Run1x-_-/overview,,10.0,Free Agent,Run1x-_-
+190191977691734060,,,,Chucky,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Chvcklez./overview,,10.0,Free Agent,iiTzChucky
+190191977691734061,,,,MR. Popo,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/xXPOW-TA-TOEXx/mmr?playlist=11,,9.5,Free Agent,xXPOW-TA-TOEXx
+190191977691734062,,,,tyrone,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/Pr0ph3zy_Sniper/mmr?playlist=11,,9.5,Free Agent,Pr0ph3zy_Sniper
+190191977691734063,,,,Kazzop ,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/KazzopRL/mmr?playlist=11,,9.5,Free Agent,KazzopRL
+190191977691734064,,,,Eviljoker,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/EvilJOKER33366/mmr?playlist=13,,9.0,Free Agent,EvilJOKER33366
+190191977691734065,,,,grand_caw_og,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Ka_Astral/mmr?playlist=13,,9.0,Free Agent,Ka_Astral
+190191977691734066,,,,AverageBrooski,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/AverageBrooski/mmr?playlist=11,,9.0,Free Agent,AverageBrooski
+190191977691734067,,,,Luzion_zx,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/psn/Luzion_zx/overview,,9.0,Free Agent,Luzion_zx
+190191977691734068,,,,Rada,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/steam/76561198146158514/mmr?playlist=13,,8.5,Free Agent,Rada
+190191977691734069,,,,Tbone.,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/Tbone%20%E3%83%83/mmr?playlist=13,,7.0,Free Agent,Tbone ッ
+190191977691734070,,,,IAmAlyssaBee,False,False,False,False,False,,https://rocketleague.tracker.network/rocket-league/profile/epic/IAmAlyssaBee/mmr?playlist=13,,6.5,Free Agent,IAmAlyssaBee
